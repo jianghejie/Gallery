@@ -1,5 +1,6 @@
 # Gallery
 a Gallery demo like the souhu app
+
 一个搜狐视频 画廊效果的demo
 ![](http://jcodecraeer.com/uploads/20150415/1429064186236674.gif)  
 
